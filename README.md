@@ -1,4 +1,6 @@
-# github-final-project
+# IBM Github Final Project
+
+## Simple Interest Calculator
 
 A calculater that calculates simple interest given principal, annual rate of interest and time period in years.
 
